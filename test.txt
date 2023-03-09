@@ -1,0 +1,3 @@
+echo you so cool
+!!
+exit 2
